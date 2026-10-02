@@ -1,0 +1,1 @@
+# mt360-claude-auth-smoke
